@@ -1,0 +1,49 @@
+﻿2016-11-23 14:30:18Z,CsvHealthReporter,Message,LogFileFolder is not specified in configuration file. Falling back to default value: .
+2016-11-23 14:30:19Z,Microsoft.Diagnostics.EventFlow.Output,Warning,"DiagnosticPipeline: an output has thrown an exception while sending data
+System.MissingMethodException: Method not found: 'Void Nest.BulkRequest.set_Refresh(Boolean)'.
+   at Microsoft.Diagnostics.EventFlow.Outputs.ElasticSearchOutput.<SendEventsAsync>d__6.MoveNext()
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine)
+   at Microsoft.Diagnostics.EventFlow.Outputs.ElasticSearchOutput.SendEventsAsync(IReadOnlyCollection`1 events, Int64 transmissionSequenceNumber, CancellationToken cancellationToken)
+   at Microsoft.Diagnostics.EventFlow.DiagnosticPipeline.OutputAction.<SendDataAsync>d__6.MoveNext()"
+2016-11-23 14:30:20Z,Microsoft.Diagnostics.EventFlow.Output,Warning,"DiagnosticPipeline: an output has thrown an exception while sending data
+System.MissingMethodException: Method not found: 'Void Nest.BulkRequest.set_Refresh(Boolean)'.
+   at Microsoft.Diagnostics.EventFlow.Outputs.ElasticSearchOutput.<SendEventsAsync>d__6.MoveNext()
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine)
+   at Microsoft.Diagnostics.EventFlow.Outputs.ElasticSearchOutput.SendEventsAsync(IReadOnlyCollection`1 events, Int64 transmissionSequenceNumber, CancellationToken cancellationToken)
+   at Microsoft.Diagnostics.EventFlow.DiagnosticPipeline.OutputAction.<SendDataAsync>d__6.MoveNext()"
+2016-11-23 14:30:21Z,Microsoft.Diagnostics.EventFlow.Output,Warning,"DiagnosticPipeline: an output has thrown an exception while sending data
+System.MissingMethodException: Method not found: 'Void Nest.BulkRequest.set_Refresh(Boolean)'.
+   at Microsoft.Diagnostics.EventFlow.Outputs.ElasticSearchOutput.<SendEventsAsync>d__6.MoveNext()
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine)
+   at Microsoft.Diagnostics.EventFlow.Outputs.ElasticSearchOutput.SendEventsAsync(IReadOnlyCollection`1 events, Int64 transmissionSequenceNumber, CancellationToken cancellationToken)
+   at Microsoft.Diagnostics.EventFlow.DiagnosticPipeline.OutputAction.<SendDataAsync>d__6.MoveNext()"
+2016-11-23 14:30:23Z,Microsoft.Diagnostics.EventFlow.Output,Warning,"DiagnosticPipeline: an output has thrown an exception while sending data
+System.MissingMethodException: Method not found: 'Void Nest.BulkRequest.set_Refresh(Boolean)'.
+   at Microsoft.Diagnostics.EventFlow.Outputs.ElasticSearchOutput.<SendEventsAsync>d__6.MoveNext()
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine)
+   at Microsoft.Diagnostics.EventFlow.Outputs.ElasticSearchOutput.SendEventsAsync(IReadOnlyCollection`1 events, Int64 transmissionSequenceNumber, CancellationToken cancellationToken)
+   at Microsoft.Diagnostics.EventFlow.DiagnosticPipeline.OutputAction.<SendDataAsync>d__6.MoveNext()"
+2016-11-23 14:30:24Z,Microsoft.Diagnostics.EventFlow.Output,Warning,"DiagnosticPipeline: an output has thrown an exception while sending data
+System.MissingMethodException: Method not found: 'Void Nest.BulkRequest.set_Refresh(Boolean)'.
+   at Microsoft.Diagnostics.EventFlow.Outputs.ElasticSearchOutput.<SendEventsAsync>d__6.MoveNext()
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine)
+   at Microsoft.Diagnostics.EventFlow.Outputs.ElasticSearchOutput.SendEventsAsync(IReadOnlyCollection`1 events, Int64 transmissionSequenceNumber, CancellationToken cancellationToken)
+   at Microsoft.Diagnostics.EventFlow.DiagnosticPipeline.OutputAction.<SendDataAsync>d__6.MoveNext()"
+2016-11-23 14:30:25Z,Microsoft.Diagnostics.EventFlow.Output,Warning,"DiagnosticPipeline: an output has thrown an exception while sending data
+System.MissingMethodException: Method not found: 'Void Nest.BulkRequest.set_Refresh(Boolean)'.
+   at Microsoft.Diagnostics.EventFlow.Outputs.ElasticSearchOutput.<SendEventsAsync>d__6.MoveNext()
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine)
+   at Microsoft.Diagnostics.EventFlow.Outputs.ElasticSearchOutput.SendEventsAsync(IReadOnlyCollection`1 events, Int64 transmissionSequenceNumber, CancellationToken cancellationToken)
+   at Microsoft.Diagnostics.EventFlow.DiagnosticPipeline.OutputAction.<SendDataAsync>d__6.MoveNext()"
+2016-11-23 14:30:26Z,Microsoft.Diagnostics.EventFlow.Output,Warning,"DiagnosticPipeline: an output has thrown an exception while sending data
+System.MissingMethodException: Method not found: 'Void Nest.BulkRequest.set_Refresh(Boolean)'.
+   at Microsoft.Diagnostics.EventFlow.Outputs.ElasticSearchOutput.<SendEventsAsync>d__6.MoveNext()
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine)
+   at Microsoft.Diagnostics.EventFlow.Outputs.ElasticSearchOutput.SendEventsAsync(IReadOnlyCollection`1 events, Int64 transmissionSequenceNumber, CancellationToken cancellationToken)
+   at Microsoft.Diagnostics.EventFlow.DiagnosticPipeline.OutputAction.<SendDataAsync>d__6.MoveNext()"
+2016-11-23 14:30:28Z,Microsoft.Diagnostics.EventFlow.Output,Warning,"DiagnosticPipeline: an output has thrown an exception while sending data
+System.MissingMethodException: Method not found: 'Void Nest.BulkRequest.set_Refresh(Boolean)'.
+   at Microsoft.Diagnostics.EventFlow.Outputs.ElasticSearchOutput.<SendEventsAsync>d__6.MoveNext()
+   at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start[TStateMachine](TStateMachine& stateMachine)
+   at Microsoft.Diagnostics.EventFlow.Outputs.ElasticSearchOutput.SendEventsAsync(IReadOnlyCollection`1 events, Int64 transmissionSequenceNumber, CancellationToken cancellationToken)
+   at Microsoft.Diagnostics.EventFlow.DiagnosticPipeline.OutputAction.<SendDataAsync>d__6.MoveNext()"

@@ -1,0 +1,32 @@
+{
+  "inputs": [
+    {
+      "type": "EventSource",
+      "sources": [
+        { "providerName": "TestEventSource" }
+      ]
+    }
+  ],
+
+  "outputs": [
+    {
+      "type": "StdOutput"
+    },
+    {
+      "type": "ElasticSearch",
+      "indexNamePrefix": "testlogs04",
+      "serviceUri": "http://elasticsearch:9200",
+      "eventDocumentTypeName": "diagData"
+    }
+  ],
+
+  "healthReporter": {
+    "type": "CsvHealthReporter",
+    "logFilePrefix": "HealthReport",
+    "minReportLevel": "Message",
+    "throttlingPeriodMsec": "1000"
+  },
+
+  "schemaVersion": "2016-08-11",
+  "extensions": []
+}
